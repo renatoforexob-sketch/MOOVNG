@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moovng.vercel.app/sitemap.xml
